@@ -7,8 +7,6 @@ Randomat is a (very primitive)
 game engine for text based
 adventure games.
 
-=================================
-
 Usage:
 main game file as main.py
 Should contain a class
@@ -17,4 +15,3 @@ px and py.
 
 tiles as tiles.py
 (coming soon, I didn't have time to implement this)
-=================================
